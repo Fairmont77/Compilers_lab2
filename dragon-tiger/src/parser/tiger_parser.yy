@@ -75,6 +75,7 @@ using utils::nl;
   FUNCTION "function"
   VAR "var"
   UMINUS "uminus"
+  INT "integer"
 ;
 
 // Define tokens that have an associated value, such as identifiers or strings
